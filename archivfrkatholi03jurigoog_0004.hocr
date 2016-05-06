@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./archivfrkatholi03jurigoog/archivfrkatholi03jurigoog_0004.png"; bbox 0 0 950 1525; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 262 691 602 710">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 262 691 602 710">
+     <span class='ocr_line' id='line_1_1' title="bbox 262 691 602 710; baseline 0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 262 691 397 709; x_wconf 86' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_2' title='bbox 412 692 470 710; x_wconf 85' lang='lat' dir='ltr'>LAW</span> <span class='ocrx_word' id='word_1_3' title='bbox 485 692 602 710; x_wconf 77' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 244 934 474 957">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 244 934 474 957">
+     <span class='ocr_line' id='line_1_2' title="bbox 244 934 474 957; baseline 0.03 -7"><span class='ocrx_word' id='word_1_4' title='bbox 244 934 362 955; x_wconf 61' lang='lat' dir='ltr'>n2221ve‹1AUG</span> <span class='ocrx_word' id='word_1_5' title='bbox 383 935 395 954; x_wconf 88' lang='grc'>5</span> <span class='ocrx_word' id='word_1_6' title='bbox 431 936 474 957; x_wconf 84' lang='lat'>1925</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
